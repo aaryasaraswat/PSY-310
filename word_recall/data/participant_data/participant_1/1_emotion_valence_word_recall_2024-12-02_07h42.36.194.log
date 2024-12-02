@@ -1,0 +1,215 @@
+70.5178 	INFO 	Loaded monitor calibration from ['2024_08_08 21:31']
+70.8836 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96260>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96200>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96050>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x15cca7ca0>, multiSample=False, name='window1', numSamples=2, pos=[367.5, 239.0], screen=0, size=array([2940, 1912]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+70.8837 	EXP 	window1: backgroundImage = ''
+70.8837 	EXP 	window1: backgroundFit = 'none'
+70.8840 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.8844 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.8889 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.8894 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.9294 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.9295 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.9299 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.9302 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x15cc96380>
+70.9399 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+70.9400 	EXP 	window1: recordFrameIntervals = False
+71.1516 	EXP 	window1: recordFrameIntervals = True
+71.9863 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+71.9865 	EXP 	window1: mouseVisible = True
+71.9868 	INFO 	keyboard.Keyboard is using event backend.
+71.9868 	INFO 	keyboard.Keyboard is using event backend.
+71.9869 	EXP 	emotion_valence_word_recall: status = STARTED
+71.9886 	EXP 	window1: mouseVisible = True
+72.0631 	EXP 	Created welcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+72.0632 	EXP 	window1: mouseVisible = True
+72.0670 	EXP 	Created a = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='a', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.3, 0.3]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+72.0671 	EXP 	window1: mouseVisible = True
+72.0675 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+72.0676 	EXP 	window1: mouseVisible = True
+72.0704 	EXP 	Created recall_ins = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='recall_ins', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+72.0706 	EXP 	window1: mouseVisible = True
+72.0706 	EXP 	window1: mouseVisible = True
+72.0709 	EXP 	window1: mouseVisible = True
+72.0712 	EXP 	window1: mouseVisible = True
+72.0753 	EXP 	window1: mouseVisible = True
+72.0754 	EXP 	window1: mouseVisible = True
+72.0757 	EXP 	window1: mouseVisible = True
+72.0769 	EXP 	window1: mouseVisible = True
+0.0036 	EXP 	recall_box: autoLog = True
+0.0099 	INFO 	Keyboard events cleared
+0.0098 	EXP 	welcome: autoDraw = True
+1.9158 	DATA 	Mouse: wheel shift=(0,0), pos=(733,609)
+1.9300 	DATA 	Mouse: wheel shift=(0,0), pos=(733,609)
+2.1856 	DATA 	Keypress: space
+2.1914 	WARNING 	t of last frame was 23.29ms (=1/42)
+2.4779 	EXP 	Imported word_stim.csv as conditions, 9 conditions, 2 params
+2.4832 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Word': 'Fear', 'Valence': 'Negative', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.4902 	WARNING 	t of last frame was 298.79ms (=1/3)
+2.4902 	EXP 	welcome: autoDraw = False
+2.4902 	EXP 	text: height = 0.05
+2.4902 	EXP 	text: height = 0.05
+2.4902 	EXP 	text: height = 0.05
+2.4902 	EXP 	text: text = 'Fear'
+2.4902 	EXP 	a: autoDraw = True
+3.4530 	EXP 	text: autoDraw = True
+3.4841 	EXP 	a: autoDraw = False
+5.4455 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Word': 'Estatic', 'Valence': 'Positive', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+5.4576 	EXP 	text: autoDraw = False
+5.4576 	EXP 	a: autoDraw = False
+5.4576 	EXP 	text: autoDraw = False
+5.4576 	EXP 	text: height = 0.05
+5.4576 	EXP 	text: height = 0.05
+5.4576 	EXP 	text: height = 0.05
+5.4576 	EXP 	text: text = 'Estatic'
+5.4576 	EXP 	a: autoDraw = True
+6.4516 	EXP 	a: autoDraw = False
+6.4516 	EXP 	text: autoDraw = True
+8.4456 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Word': 'Chair', 'Valence': 'Neutral', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+8.4578 	EXP 	text: autoDraw = False
+8.4578 	EXP 	a: autoDraw = False
+8.4578 	EXP 	text: autoDraw = False
+8.4578 	EXP 	text: height = 0.05
+8.4578 	EXP 	text: height = 0.05
+8.4578 	EXP 	text: height = 0.05
+8.4578 	EXP 	text: text = 'Chair'
+8.4578 	EXP 	a: autoDraw = True
+9.4515 	EXP 	a: autoDraw = False
+9.4515 	EXP 	text: autoDraw = True
+11.4351 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Word': 'Love', 'Valence': 'Positive', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+11.4466 	EXP 	text: autoDraw = False
+11.4466 	EXP 	a: autoDraw = False
+11.4466 	EXP 	text: autoDraw = False
+11.4466 	EXP 	text: height = 0.05
+11.4466 	EXP 	text: height = 0.05
+11.4466 	EXP 	text: height = 0.05
+11.4466 	EXP 	text: text = 'Love'
+11.4612 	EXP 	a: autoDraw = True
+12.4431 	EXP 	text: autoDraw = True
+12.4614 	EXP 	a: autoDraw = False
+14.4289 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Word': 'Anger', 'Valence': 'Negative', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+14.4382 	EXP 	text: autoDraw = False
+14.4382 	EXP 	a: autoDraw = False
+14.4382 	EXP 	text: autoDraw = False
+14.4382 	EXP 	text: height = 0.05
+14.4382 	EXP 	text: height = 0.05
+14.4382 	EXP 	text: height = 0.05
+14.4382 	EXP 	text: text = 'Anger'
+14.4431 	EXP 	a: autoDraw = True
+15.4343 	EXP 	a: autoDraw = False
+15.4517 	EXP 	text: autoDraw = True
+17.4456 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'Word': 'Guilt', 'Valence': 'Negative', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+17.4597 	EXP 	text: autoDraw = False
+17.4597 	EXP 	a: autoDraw = False
+17.4597 	EXP 	text: autoDraw = False
+17.4597 	EXP 	text: height = 0.05
+17.4597 	EXP 	text: height = 0.05
+17.4597 	EXP 	text: height = 0.05
+17.4597 	EXP 	text: text = 'Guilt'
+17.4597 	EXP 	a: autoDraw = True
+18.4486 	EXP 	a: autoDraw = False
+18.4486 	EXP 	text: autoDraw = True
+20.4354 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'Word': 'Joy', 'Valence': 'Positive', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+20.4469 	EXP 	text: autoDraw = False
+20.4469 	EXP 	a: autoDraw = False
+20.4469 	EXP 	text: autoDraw = False
+20.4469 	EXP 	text: height = 0.05
+20.4469 	EXP 	text: height = 0.05
+20.4469 	EXP 	text: height = 0.05
+20.4469 	EXP 	text: text = 'Joy'
+20.4612 	EXP 	a: autoDraw = True
+21.4589 	EXP 	a: autoDraw = False
+21.4589 	EXP 	text: autoDraw = True
+23.4454 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'Word': 'Table', 'Valence': 'Neutral', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+23.4547 	EXP 	text: autoDraw = False
+23.4547 	EXP 	a: autoDraw = False
+23.4547 	EXP 	text: autoDraw = False
+23.4547 	EXP 	text: height = 0.05
+23.4547 	EXP 	text: height = 0.05
+23.4547 	EXP 	text: height = 0.05
+23.4547 	EXP 	text: text = 'Table'
+23.4547 	EXP 	a: autoDraw = True
+24.4513 	EXP 	a: autoDraw = False
+24.4513 	EXP 	text: autoDraw = True
+26.4349 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'Word': 'Window', 'Valence': 'Neutral', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+26.4438 	EXP 	text: autoDraw = False
+26.4438 	EXP 	a: autoDraw = False
+26.4438 	EXP 	text: autoDraw = False
+26.4438 	EXP 	text: height = 0.05
+26.4438 	EXP 	text: height = 0.05
+26.4438 	EXP 	text: height = 0.05
+26.4438 	EXP 	text: text = 'Window'
+26.4488 	EXP 	a: autoDraw = True
+27.4447 	EXP 	a: autoDraw = False
+27.4520 	EXP 	text: autoDraw = True
+29.4431 	EXP 	text: autoDraw = False
+29.4431 	EXP 	a: autoDraw = False
+29.4431 	EXP 	text: autoDraw = False
+29.4510 	EXP 	recall_ins: autoDraw = True
+32.4641 	EXP 	recall_ins: autoDraw = False
+32.4641 	EXP 	recall_box: autoDraw = True
+34.1869 	DATA 	Keypress: lshift
+34.7434 	DATA 	Keypress: f
+34.7479 	WARNING 	t of last frame was 20.06ms (=1/49)
+34.9797 	DATA 	Keypress: e
+35.1897 	DATA 	Keypress: a
+35.3042 	DATA 	Keypress: r
+35.9793 	DATA 	Keypress: return
+36.6470 	DATA 	Keypress: lshift
+36.8053 	DATA 	Keypress: e
+37.0902 	DATA 	Keypress: c
+37.2558 	DATA 	Keypress: s
+37.4196 	DATA 	Keypress: t
+37.7797 	DATA 	Keypress: a
+37.9025 	DATA 	Keypress: t
+38.2185 	DATA 	Keypress: i
+38.4129 	DATA 	Keypress: c
+39.1157 	DATA 	Keypress: return
+43.8848 	DATA 	Keypress: lshift
+44.8765 	DATA 	Keypress: l
+45.3766 	DATA 	Keypress: o
+45.6464 	DATA 	Keypress: c
+46.0360 	DATA 	Keypress: e
+46.4127 	DATA 	Keypress: backspace
+46.5814 	DATA 	Keypress: backspace
+47.1154 	DATA 	Keypress: backspace
+52.5668 	DATA 	Keypress: o
+52.5939 	WARNING 	t of last frame was 22.34ms (=1/44)
+52.7382 	DATA 	Keypress: v
+53.1968 	DATA 	Keypress: e
+53.5524 	DATA 	Keypress: return
+53.9680 	DATA 	Keypress: lshift
+54.3295 	DATA 	Keypress: g
+54.6720 	DATA 	Keypress: u
+54.8386 	DATA 	Keypress: i
+55.0791 	DATA 	Keypress: l
+55.3820 	DATA 	Keypress: t
+55.5296 	DATA 	Keypress: return
+55.8613 	DATA 	Keypress: lshift
+56.0956 	DATA 	Keypress: w
+56.2993 	DATA 	Keypress: i
+56.5547 	DATA 	Keypress: n
+56.6711 	DATA 	Keypress: d
+56.7712 	DATA 	Keypress: o
+56.9599 	DATA 	Keypress: w
+57.1023 	DATA 	Keypress: return
+57.3681 	DATA 	Keypress: lshift
+57.7392 	DATA 	Keypress: a
+57.8724 	DATA 	Keypress: n
+58.1271 	DATA 	Keypress: g
+58.2806 	DATA 	Keypress: e
+58.4464 	DATA 	Keypress: r
+58.6554 	DATA 	Keypress: return
+59.0283 	DATA 	Keypress: lshift
+67.9144 	DATA 	Keypress: lshift
+68.1453 	DATA 	Keypress: j
+68.4198 	DATA 	Keypress: o
+68.9806 	DATA 	Keypress: y
+70.9143 	DATA 	Keypress: space
+70.9190 	EXP 	recall_ins: autoDraw = False
+70.9190 	EXP 	recall_box: autoDraw = False
+70.9191 	EXP 	emotion_valence_word_recall: status = STOPPED
+70.9267 	INFO 	saved data to '/Users/aaryasaraswat/Documents/PSY310/SOLO PROJECT/data/1_emotion_valence_word_recall_2024-12-02_07h42.36.194.csv'
+70.9307 	INFO 	saved data to /Users/aaryasaraswat/Documents/PSY310/SOLO PROJECT/data/1_emotion_valence_word_recall_2024-12-02_07h42.36.194.psydat
+70.9599 	EXP 	window1: mouseVisible = True
